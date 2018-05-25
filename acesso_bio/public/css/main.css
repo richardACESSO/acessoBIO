@@ -1,0 +1,101 @@
+body{
+	background-color: #292f3b !important;
+}
+
+.container-right-black{
+	background-color: #212835;
+	width: 108%;
+	height: 100%;
+}
+
+#first {
+	position: absolute;
+	left: 3em;
+	top: 2em;
+	border-radius: 13px;
+	width: 58px;
+	height: 47px;
+	background: #0081ff;
+	overflow: hidden;
+}
+#first #second{
+	position: relative;
+	width: 81%;
+	height: 52%;
+	margin: auto;
+	margin-top: 19%;
+	background: radial-gradient(circle closest-side,#99ccff 0%,#99ccff 98%,rgba(0,0,0,0) 100%);
+}
+
+#footer{
+	padding-top: 39%;
+	padding-left: 69%;
+}
+
+div[role="main"] {
+	float: right;
+	width: 50%;
+	height: 561px;
+}
+
+
+#texts-field{
+	width: 19em;
+	left: 7em;
+	top: 8em;
+	position: absolute;
+	height: 30%;
+}
+
+.img-field{
+	background-color: #0081ff;
+	width: 26em;
+	left: 27em;
+	top: 8em;
+	position: absolute;
+	height: 323px;
+}	
+
+.intial-font{
+	font-size: 70px;
+	font-weight: bold;
+	color: #9599a8;
+}
+
+.intial-font p{    
+	font-size: 71px;
+	line-height: 0.7;
+}
+
+.second-font{ 
+	color: #9599a8
+}
+
+.second-font p{
+	font-size: 41px;
+	line-height: 0.7;
+}
+
+.background-img{
+	width: 100%;
+	position: absolute;
+}
+
+.molde-img{
+	width: 100%;
+	position: absolute;
+}
+
+.btn-descubra {
+	position: relative;
+	top: 70%;
+	left: 25%;
+	color: #0081ff;
+	font-size: 15px;
+	border: 0;
+	font-weight: bold;
+	width: 170px;
+	height: 62px;
+	border-radius: 100px;
+	background-color: #ffffff;
+}
